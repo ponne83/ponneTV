@@ -93,14 +93,12 @@ CCTV-文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8#http://183.11.239.36:808/hls/52/index.m3u8#http://113.15.109.216:59901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.57.40.22:9901/tsfile/live/1047_1.m3u8#http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226709/1.m3u8#http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0#http://192.151.150.154/live/ynwshd.m3u8#http://107.150.60.122/live/ynwshd.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8#http://61.136.172.236:9901/tsfile/live/0142_1.m3u8#http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.57.40.22:9901/tsfile/live/0142_1.m3u8#http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226680/1.m3u8#http://120.76.248.139/live/bfgd/4200000107.m3u8#http://107.150.60.122/live/cqwshd.m3u8#http://192.151.150.154/live/cqwshd.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd
 NBA直播,#genre#
-NBA TV,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8#http://23.237.104.106:8080/USA_NBA/index.m3u8#http://198.58.104.90:8989/nba/index.m3u8
-SPOTV,http://31.43.191.125:8080/restream/restream/34638
+NBA TV,http://198.58.104.90:8989/nba/index.m3u8
 The NBA Channel,https://jmp2.uk/plu-6792c30abc03978b9b8bb832.m3u8
-咪咕体育NBA,http://23.237.104.106:8080/USA_NBA/index.m3u8#http://198.58.104.90:8989/nba/index.m3u8
+咪咕体育NBA,http://198.58.104.90:8989/nba/index.m3u8
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8#https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8#https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8#https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8#https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8#https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8#https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8#https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-纬来体育台,http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8#https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8#https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+纬来体育台,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8#https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8#http://8.138.7.223/【公众号：榴芒电视】/wlty.m3u8
 纬来精彩台,http://61.221.215.25:8800/hls/48/index.m3u8
-腾讯体育NBA,http://23.237.104.106:8080/USA_NBA/tracks-v1a1/mono.m3u8#http://23.237.104.106:8080/USA_NBA/index.m3u8
 广东地方台,#genre#
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8#https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 佛山城市生活,http://xhyx.gz.cn:1698/hls/23/index.m3u8
