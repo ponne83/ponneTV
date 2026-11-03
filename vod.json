@@ -126,10 +126,10 @@
   },
   {
    "name": "⚡聚合┃43站",
-   "url": "https://cdn.jsdelivr.net/gh/ponne83/ponneTV@main/vod_one.json"
+   "url": "https://gitee.com/ponne/ponne/raw/master/vod_one.json"
   }
  ],
  "lives": [
-  "https://cdn.jsdelivr.net/gh/ponne83/ponneTV@main/tvlist.txt"
+  "https://gitee.com/ponne/ponne/raw/master/tvlist.txt"
  ]
 }
