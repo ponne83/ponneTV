@@ -57,6 +57,18 @@
    "url": "https://www.yingm.cc/dm/dm.json"
   },
   {
+   "name": "饭太硬(qist)",
+   "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
+  },
+  {
+   "name": "jsm(qist)",
+   "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
+  },
+  {
+   "name": "小撒(qist)",
+   "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
+  },
+  {
    "name": "550-3vcn",
    "url": "http://550.3vcn.work/wdjyys.json"
   },
@@ -103,10 +115,6 @@
   {
    "name": "2hacc",
    "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json"
-  },
-  {
-   "name": "⚡聚合┃25站",
-   "url": "https://fastly.jsdelivr.net/gh/ponne83/ponneTV@v1/vod_one.json"
   }
  ],
  "lives": [
