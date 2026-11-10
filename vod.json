@@ -25,10 +25,6 @@
    "url": "https://android.lushunming.qzz.io/json/index.json"
   },
   {
-   "name": "HG",
-   "url": "https://api.hgyx.vip/hgyx.json"
-  },
-  {
    "name": "dxawi",
    "url": "https://dxawi.github.io/0/0.json"
   },
@@ -85,6 +81,10 @@
    "url": "http://ztha.top/TVBox/thdjk.json"
   },
   {
+   "name": "heroaku",
+   "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json"
+  },
+  {
    "name": "noimank",
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/main/tvboxmuti.json"
   },
@@ -119,10 +119,6 @@
   {
    "name": "2hacc",
    "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json"
-  },
-  {
-   "name": "⚡聚合┃32站",
-   "url": "https://fastly.jsdelivr.net/gh/ponne83/ponneTV@v1/vod_one.json"
   }
  ],
  "lives": [
