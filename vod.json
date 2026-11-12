@@ -57,6 +57,10 @@
    "url": "https://qist.wyfc.qzz.io/fty.json"
   },
   {
+   "name": "小撒(qist)",
+   "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
+  },
+  {
    "name": "饭太硬(qist)(2)",
    "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
   },
@@ -65,7 +69,7 @@
    "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
   },
   {
-   "name": "小撒(qist)",
+   "name": "小撒(qist)(2)",
    "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
   },
   {
@@ -115,10 +119,6 @@
   {
    "name": "2hacc",
    "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json"
-  },
-  {
-   "name": "⚡聚合┃42站",
-   "url": "https://fastly.jsdelivr.net/gh/ponne83/ponneTV@v1/vod_one.json"
   }
  ],
  "lives": [
