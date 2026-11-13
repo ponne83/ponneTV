@@ -119,6 +119,10 @@
   {
    "name": "2hacc",
    "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json"
+  },
+  {
+   "name": "⚡聚合┃49站",
+   "url": "https://fastly.jsdelivr.net/gh/ponne83/ponneTV@v1/vod_one.json"
   }
  ],
  "lives": [
