@@ -5,8 +5,16 @@
    "url": "http://xhztv.top/DC.txt"
   },
   {
+   "name": "小盒子多仓",
+   "url": "http://xhztv.top/dc/"
+  },
+  {
    "name": "小盒子单仓",
    "url": "http://xhztv.top/xhz"
+  },
+  {
+   "name": "王小二放牛娃新",
+   "url": "https://9280.kstore.vip/newwex.json"
   },
   {
    "name": "嗷呜",
@@ -49,6 +57,14 @@
    "url": "https://www.yingm.cc/dm/dm.json"
   },
   {
+   "name": "饭太硬(qist)",
+   "url": "https://qist.wyfc.qzz.io/fty.json"
+  },
+  {
+   "name": "小撒(qist)",
+   "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
+  },
+  {
    "name": "饭太硬(qist)(2)",
    "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json"
   },
@@ -59,6 +75,10 @@
   {
    "name": "小撒(qist)(2)",
    "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
+  },
+  {
+   "name": "550-3vcn",
+   "url": "http://550.3vcn.work/wdjyys.json"
   },
   {
    "name": "thdjk",
@@ -89,12 +109,20 @@
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
   },
   {
+   "name": "m.json",
+   "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json"
+  },
+  {
    "name": "kukuqi",
    "url": "https://raw.githubusercontent.com/kukuqi666/TVboxOSC/main/website/tvbox/R18.json"
   },
   {
    "name": "2hacc",
    "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json"
+  },
+  {
+   "name": "⚡聚合┃21站",
+   "url": "https://fastly.jsdelivr.net/gh/ponne83/ponneTV@main/vod_one.json"
   }
  ],
  "lives": [
