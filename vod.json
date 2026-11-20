@@ -5,6 +5,10 @@
    "url": "http://xhztv.top/DC.txt"
   },
   {
+   "name": "小盒子多仓",
+   "url": "http://xhztv.top/dc/"
+  },
+  {
    "name": "小盒子单仓",
    "url": "http://xhztv.top/xhz"
   },
@@ -73,8 +77,16 @@
    "url": "https://raw.githubusercontent.com/qist/tvbox/master/xiaosa/api.json"
   },
   {
+   "name": "550-3vcn",
+   "url": "http://550.3vcn.work/wdjyys.json"
+  },
+  {
    "name": "thdjk",
    "url": "http://ztha.top/TVBox/thdjk.json"
+  },
+  {
+   "name": "heroaku",
+   "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json"
   },
   {
    "name": "noimank",
@@ -106,15 +118,11 @@
   },
   {
    "name": "kukuqi",
-   "url": "https://raw.githubusercontent.com/kukuqi666/TVboxOSC/main/website/tvbox/R18.json"
+   "url": "https://raw.githubusercontent.com/kukuqi666/TVboxOSC/main/website/tvbox-config/R18.json"
   },
   {
    "name": "2hacc",
    "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json"
-  },
-  {
-   "name": "⚡聚合┃21站",
-   "url": "https://fastly.jsdelivr.net/gh/ponne83/ponneTV@main/vod_one.json"
   }
  ],
  "lives": [
