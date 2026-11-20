@@ -165,7 +165,7 @@ CCTV-14少儿,http://113.25.252.226:9901/tsfile/live/1018_1.m3u8?key=txiptv&play
 福建少儿,http://183.250.156.180:9999/newlive/live/hls/26/live.m3u8#http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fjse
 重庆少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqse
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8#http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙少儿,http://play1-qk.nmtv.cn/live/2318general.m3u8
+内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800#https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800#http://play1-qk.nmtv.cn/live/2318general.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 广东地方台,#genre#
